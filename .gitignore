@@ -1,0 +1,7 @@
+/*************  ✨ Codeium Command ⭐  *************/
+# Ignore .env file
+.env
+
+# Ignore node_modules folder
+node_modules
+/******  f0a84ef9-9cca-4c53-8779-76a27d9518ce  *******/
